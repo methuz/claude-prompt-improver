@@ -2,17 +2,9 @@
   "name": "prompt-improver",
   "version": "1.0.0",
   "description": "Automatically provides grammar corrections and refined versions of your prompts before Claude responds",
-  "author": "rubick",
+  "author": {
+    "name": "methuz"
+  },
   "license": "MIT",
-  "repository": "https://github.com/rubick/claude-prompt-improver",
-  "keywords": [
-    "grammar",
-    "writing",
-    "prompt",
-    "refinement",
-    "hooks"
-  ],
-  "claude": {
-    "minVersion": "1.0.0"
-  }
+  "repository": "https://github.com/methuz/claude-prompt-improver"
 }
