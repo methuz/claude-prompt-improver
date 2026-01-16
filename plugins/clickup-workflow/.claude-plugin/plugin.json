@@ -1,0 +1,11 @@
+{
+  "name": "clickup-workflow",
+  "version": "1.0.0",
+  "description": "ClickUp integration for task management, parallel development with git worktrees, and autonomous agent orchestration via tmux sessions",
+  "author": {
+    "name": "methuz"
+  },
+  "license": "MIT",
+  "repository": "https://github.com/methuz/methuz-claude-marketplace",
+  "keywords": ["clickup", "task-management", "workflow", "git-worktrees", "tmux", "agents"]
+}

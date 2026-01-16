@@ -6,10 +6,5 @@
     "name": "methuz"
   },
   "license": "MIT",
-  "repository": "https://github.com/methuz/methuz-claude-marketplace",
-  "statusLine": {
-    "type": "command",
-    "command": "${CLAUDE_PLUGIN_ROOT}/statusline.sh",
-    "padding": 0
-  }
+  "repository": "https://github.com/methuz/methuz-claude-marketplace"
 }

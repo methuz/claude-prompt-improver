@@ -28,6 +28,17 @@
       },
       "source": "./plugins/statusline",
       "category": "productivity"
+    },
+    {
+      "name": "clickup-workflow",
+      "description": "ClickUp integration for task management, parallel development with git worktrees, and autonomous agent orchestration",
+      "version": "1.0.0",
+      "author": {
+        "name": "methuz",
+        "email": "methuz@users.noreply.github.com"
+      },
+      "source": "./plugins/clickup-workflow",
+      "category": "productivity"
     }
   ]
 }

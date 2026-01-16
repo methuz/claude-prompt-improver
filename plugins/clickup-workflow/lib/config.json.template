@@ -1,0 +1,20 @@
+{
+  "branch_field_id": "YOUR_CUSTOM_FIELD_ID_HERE",
+  "statuses": {
+    "ready": "to do",
+    "in_progress": "in progress",
+    "review": "to review",
+    "done": "complete"
+  },
+  "branch_prefixes": {
+    "bug": "fix",
+    "story": "feature",
+    "task": "task"
+  },
+  "priorities": {
+    "urgent": 1,
+    "high": 2,
+    "normal": 3,
+    "low": 4
+  }
+}
